@@ -1,4 +1,4 @@
-![alt text] (https://github.com/AdFunnelTech/whitepaper/blob/master/Funnel_alpha.png)
+![Ad Funnel Logo] (AdFunnelTech.github.com/whitepaper/Funnel_alpha.png)
 
 Overview
 In today’s cryptocurrency landscape, blockchain development news is spread across multi- ple sources. As useful as the information is, it requires multiple browser windows opened searching through your favorite web browser with multiple log-ins.
